@@ -1,2 +1,10 @@
-# my-first-repo
-learning github
+# Hello, I'm learning GitHub!
+
+This is my first repository.
+
+## About Me
+- Learning Git and GitHub
+- Working on my coding skills
+
+## My Goal
+To become proficient with version control
