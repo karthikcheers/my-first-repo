@@ -8,3 +8,5 @@ This is my first repository.
 
 ## My Goal
 To become proficient with version control
+
+doing some changes here to push the code
